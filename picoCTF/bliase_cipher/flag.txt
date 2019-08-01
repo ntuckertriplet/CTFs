@@ -1,0 +1,2 @@
+put the entire junk
+picoCTF{v1gn3r3_c1ph3rs_ar3n7_bad_cdf08bf0}

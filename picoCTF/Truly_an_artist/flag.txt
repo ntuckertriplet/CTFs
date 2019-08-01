@@ -1,0 +1,2 @@
+ez strings
+picoCTF{look_in_image_eeea129e}

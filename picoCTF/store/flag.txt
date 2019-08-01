@@ -1,0 +1,2 @@
+ez strings
+picoCTF{numb3r3_4r3nt_s4f3_03054e5d}

@@ -1,0 +1,2 @@
+hex editor, end of file
+picoCTF{and_thats_how_u_edit_hex_kittos_22C1d865}

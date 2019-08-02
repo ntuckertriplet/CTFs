@@ -1,0 +1,2 @@
+plaintext in wireshark
+picoCTF{n0ts3cur3_b186631d}
